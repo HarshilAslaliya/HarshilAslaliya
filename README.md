@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshil Aslaliya</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Firebase**
+- 🔭 I’m currently working on **X-Ray Printer Rent App**
 
 - 💬 Ask me about **Flutter**
 
